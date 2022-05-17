@@ -1,0 +1,52 @@
+/* 
+- Center all the headings
+- Add page background
+*/
+#main {
+  margin: 30px 8px;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.button {
+    padding: 32px;
+    margin: 16px;
+    background-color:yellow
+  }
+#page-title {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+#name-input {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+#pokemon-input {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+#fight {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+#results {
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  display: table;
+  margin: 0 auto;
+}
+
+body {
+font-family: 'Cookie', cursive;
+font-family: 'Indie Flower', cursive;
+background-image: url('https://64.media.tumblr.com/293c0ce68459479f6f663ea94566f469/tumblr_ndkx9tXfcs1stlfk5o1_1280.gifv');
+cursor: url('http://www.rw-designer.com/cursor-view/55501.png')
+}
